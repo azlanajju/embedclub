@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.video-background{
+  filter: blur(3px);
+  background-attachment: fixed;
+}
